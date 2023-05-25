@@ -1,6 +1,6 @@
 ## YOLOV5：You Only Look Once目标检测模型在pytorch当中的实现（edition v5.0 in Ultralytics）
 ---
-
+==原版来自：https://github.com/bubbliiiing/yolov5-pytorch ==
 ## 目录
 1. [仓库更新 Top News](#仓库更新)
 2. [相关仓库 Related code](#相关仓库)
@@ -48,7 +48,10 @@ torch==1.2.0
 ## 文件下载
 训练所需的权值可在百度网盘中下载。  
 链接: https://pan.baidu.com/s/1gPDsDVX1lbcSNqCKsvzz0A   
-提取码: 3mjs   
+提取码: 3mjs 
+或者是：
+链接: https://pan.baidu.com/s/1I_HZs6iaKB5PdxlntQP5Iw?pwd=d9bs 
+提取码: d9bs 
 
 VOC数据集下载地址如下，里面已经包括了训练集、测试集、验证集（与测试集一样），无需再次划分：  
 链接: https://pan.baidu.com/s/19Mw2u_df_nBzsC2lg20fQA    
